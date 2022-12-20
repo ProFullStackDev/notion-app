@@ -128,15 +128,3 @@ This will lead you through the setup guide for your frontend application. Afterw
 **Make sure**, you add the Backend API endpoint as a production environmental variable on Vercel.com.
 
 **Make sure**, you add a custom domain for your frontend (that ideally matches the domain which you have specified in your backend environmental variables 😉)
-
-
-## About
-
-<a href="https://www.buymeacoffee.com/kmuenster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-Konstantin Münster – [konstantin.digital](https://konstantin.digital)
-
-Distributed under the [MIT](http://showalicense.com/?fullname=Konstantin+M%C3%BCnster&year=2019#license-mit) license.
-See `LICENSE` for more information.
-
-[https://github.com/konstantinmuenster](https://github.com/konstantinmuenster)
